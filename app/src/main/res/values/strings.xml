@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListaDeContatos</string>
+    <string name="nome_contato">Nome:</string>
+    <string name="telefone_contato">Telefone:</string>
+    <string name="endereco_contato">Endereço:</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="btn_cancelar">Cacelar</string>
+</resources>
